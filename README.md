@@ -4,9 +4,9 @@ Development of a point of sale system to be used in general purpose markets/stor
 
 Team Members:
 
-Marek Sautter
-Momtaz Afredi
-Yousef Roushdy
-Jeffrey Iacob
-Luis Rios
-RJ Esquivias
+Marek Sautter,
+ Momtaz Afredi,
+ Yousef Roushdy,
+ Jeffrey Iacob,
+ Luis Rios,
+ RJ Esquivias
